@@ -1,0 +1,61 @@
+﻿  Enemy.cpp
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Player.h(105,17): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Player.h(109,17): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(64,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(82,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(83,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(33,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(79,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(80,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(105,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(116,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Enemy.cpp(138,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GameLoop.cpp
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Player.h(105,17): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Player.h(109,17): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(64,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(82,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(83,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(100,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(100,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(108,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(108,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(108,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(108,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,38): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(109,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\GameLoop.cpp(135,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  cplusplus_programming_for_games.cpp
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Player.h(105,17): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\Player.h(109,17): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(64,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(82,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(83,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\cplusplus_programming_for_games\source\BulletManager.h(103,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  cplusplus_programming_for_games.vcxproj -> C:\Users\Peppe\Documents\GitHub\milestones-peppermoos\code\x64\Debug\cplusplus_programming_for_games.exe
